@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-10T11:15:18 IST" name="Default suite" finished-at="2024-04-10T11:16:08 IST" duration-ms="50070">
+  <suite started-at="2024-04-10T11:33:26 IST" name="Default suite" finished-at="2024-04-10T11:33:37 IST" duration-ms="11578">
     <groups>
     </groups>
-    <test started-at="2024-04-10T11:15:18 IST" name="Default test" finished-at="2024-04-10T11:16:08 IST" duration-ms="50070">
+    <test started-at="2024-04-10T11:33:26 IST" name="Default test" finished-at="2024-04-10T11:33:37 IST" duration-ms="11578">
       <class name="Handling_Dropdowns_Test">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Handling_Dropdowns_Test@3e8c3cb]" started-at="2024-04-10T11:15:18 IST" name="setup" finished-at="2024-04-10T11:16:02 IST" duration-ms="43790" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Handling_Dropdowns_Test@4c60d6e9]" started-at="2024-04-10T11:33:26 IST" name="setup" finished-at="2024-04-10T11:33:30 IST" duration-ms="4710" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="dropdownval()[pri:0, instance:Handling_Dropdowns_Test@3e8c3cb]" started-at="2024-04-10T11:16:02 IST" name="dropdownval" finished-at="2024-04-10T11:16:08 IST" duration-ms="5962" status="PASS">
+        <test-method signature="dropdownval()[pri:0, instance:Handling_Dropdowns_Test@4c60d6e9]" started-at="2024-04-10T11:33:30 IST" name="dropdownval" finished-at="2024-04-10T11:33:37 IST" duration-ms="6494" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dropdownval -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:Handling_Dropdowns_Test@3e8c3cb]" started-at="2024-04-10T11:16:08 IST" name="teardown" finished-at="2024-04-10T11:16:08 IST" duration-ms="270" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Handling_Dropdowns_Test@4c60d6e9]" started-at="2024-04-10T11:33:37 IST" name="teardown" finished-at="2024-04-10T11:33:37 IST" duration-ms="325" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
