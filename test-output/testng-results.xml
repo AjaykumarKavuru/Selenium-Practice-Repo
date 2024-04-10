@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-18T18:53:11 IST" name="Default suite" finished-at="2024-03-18T18:54:10 IST" duration-ms="59443">
+    <groups>
+      <group name="PIM">
+        <method signature="TestNG_Practice.PIM()[pri:1, instance:com.TestNG.TestNG_Practice@1e6a3214]" name="PIM" class="com.TestNG.TestNG_Practice"/>
+      </group> <!-- PIM -->
+      <group name="Leave">
+        <method signature="TestNG_Practice.Leave()[pri:1, instance:com.TestNG.TestNG_Practice@1e6a3214]" name="Leave" class="com.TestNG.TestNG_Practice"/>
+      </group> <!-- Leave -->
+      <group name="Time">
+        <method signature="TestNG_Practice.Time()[pri:1, instance:com.TestNG.TestNG_Practice@1e6a3214]" name="Time" class="com.TestNG.TestNG_Practice"/>
+      </group> <!-- Time -->
+    </groups>
+    <test started-at="2024-03-18T18:53:11 IST" name="Default test" finished-at="2024-03-18T18:54:10 IST" duration-ms="59443">
+      <class name="com.TestNG.TestNG_Practice">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestNG.TestNG_Practice@1e6a3214]" started-at="2024-03-18T18:53:11 IST" name="setup" finished-at="2024-03-18T18:53:29 IST" duration-ms="17804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Leave()[pri:1, instance:com.TestNG.TestNG_Practice@1e6a3214]" started-at="2024-03-18T18:53:29 IST" name="Leave" finished-at="2024-03-18T18:53:31 IST" duration-ms="2590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Leave -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.TestNG.TestNG_Practice@1e6a3214]" started-at="2024-03-18T18:53:31 IST" name="teardown" finished-at="2024-03-18T18:53:32 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestNG.TestNG_Practice@1e6a3214]" started-at="2024-03-18T18:53:32 IST" name="setup" finished-at="2024-03-18T18:53:55 IST" duration-ms="23464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="PIM()[pri:1, instance:com.TestNG.TestNG_Practice@1e6a3214]" started-at="2024-03-18T18:53:55 IST" name="PIM" finished-at="2024-03-18T18:53:57 IST" duration-ms="1641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PIM -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.TestNG.TestNG_Practice@1e6a3214]" started-at="2024-03-18T18:53:57 IST" name="teardown" finished-at="2024-03-18T18:53:57 IST" duration-ms="176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.TestNG.TestNG_Practice@1e6a3214]" started-at="2024-03-18T18:53:57 IST" name="setup" finished-at="2024-03-18T18:54:08 IST" duration-ms="11430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Time()[pri:1, instance:com.TestNG.TestNG_Practice@1e6a3214]" started-at="2024-03-18T18:54:08 IST" name="Time" finished-at="2024-03-18T18:54:10 IST" duration-ms="1822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Time -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.TestNG.TestNG_Practice@1e6a3214]" started-at="2024-03-18T18:54:10 IST" name="teardown" finished-at="2024-03-18T18:54:10 IST" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.TestNG.TestNG_Practice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
